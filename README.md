@@ -1,10 +1,6 @@
 # event-plataform
 An application for conducting online events, where each class is made available during each day of the week.
 
-# Event Platform
-
-![event-platform-mockup](https://user-images.githubusercontent.com/44211093/175783670-ecb5085a-77f6-4453-b81c-fb4fc9310c49.png)
-
 ## 💻 O projeto
 
 Aplicação desenvolvida durante o Ignite Lab, evento oferecido pela [Rocketseat](https://rocketseat.com.br/), que consiste em uma plataforma para a realização de eventos
