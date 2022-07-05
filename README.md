@@ -25,7 +25,7 @@ tanto na criação das aulas, cadastradas no próprio painel da ferramenta, quan
 Clone o repositório:
 
 ``` bash
-git clone https://github.com/lucasgabriel13/event-platform.git
+git clone 
 
 ```
 
